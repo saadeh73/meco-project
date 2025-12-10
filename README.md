@@ -33,8 +33,8 @@
 ---
 
 ## 📬 تواصل
-(x). 
+🏳️ (x). ⬇️
 https://x.com/MoniCoinMECO
 
-(telegram).
+🏳️ (telegram).⬇️
 https://t.me/monycoin1
