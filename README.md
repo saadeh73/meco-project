@@ -31,6 +31,7 @@ MECO هي عملة رقمية مبنية على شبكة **Solana**، تهدف �
 - 📜 [STATEMENT.md](./STATEMENT.md) — البيان الرسمي  
 - 🏛️ [PROJECT_CHARTER.md](./PROJECT_CHARTER.md) — الميثاق المؤسسي  
 - 💰 [MECO_Presale_Funds.md](./MECO_Presale_Funds.md) — إدارة أموال البيع المسبق  
+- ⚙️ [APP_FEES.md](./APP_FEES.md) — Application Fees Governance
 - 🧪 [INNOVATION_SUPPORT.md](./INNOVATION_SUPPORT.md) — برنامج دعم الابتكار (غير مفعل حالياً)
 
 ---
