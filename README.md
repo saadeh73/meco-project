@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- الشعار والترويسة الرئيسية -->
-  <img src="https://raw.githubusercontent.com/MonyCoin/meco_wallet/refs/heads/main/assets/icon.png" width="140" height="140" style="border-radius: 35px; box-shadow: 0 20px 50px rgba(231, 76, 60, 0.3);" alt="MECO Logo">
+  <img src="https://raw.githubusercontent.com/MonyCoin/meco-token/refs/heads/main/meco.logo.png" width="140" height="140" style="border-radius: 35px; box-shadow: 0 20px 50px rgba(231, 76, 60, 0.3);" alt="MECO Logo">
 
   # 🪙 منظومة MECO المالية والتشغيلية
   **المرجع الإداري والتوثيقي الرسمي لمؤسسة MonyCoin الرقمية على شبكة Solana**
